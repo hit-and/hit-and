@@ -1,6 +1,7 @@
 <div>
-<h4>Hey there!</h4><br>
-<h3>My name is Andrey, I'm full-stack JS developer.</h3><br>
+<h3>Hey there!<br>
+My name is Andrey, I'm full-stack JS developer.
+</h3><br>
 
   
 ## There are some links to contact me:
